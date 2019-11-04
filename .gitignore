@@ -1,0 +1,9 @@
+#Don't track following folders
+.ipynb_checkpoints/
+images/
+
+
+
+#Don't track following files
+*.DS_Store
+
