@@ -5,4 +5,4 @@
 
 #Don't track following files
 *.DS_Store
-
+Exponentially_Weighted_Avg.py
